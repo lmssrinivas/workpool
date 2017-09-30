@@ -1,0 +1,13 @@
+@import "../../styles/variables";
+
+.nav-bar{
+  display: flex;
+  width: 100%;
+  background: whitesmoke;
+  justify-content:space-between;
+  padding: 20px;
+  & .nav-item{
+
+
+  }
+}
